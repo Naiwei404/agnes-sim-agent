@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "agnes-sim-agent": {
+      "command": "D:\\WorkBuddy\\AI工作区\\03-代码项目\\agnes-sim-agent\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\WorkBuddy\\AI工作区\\03-代码项目\\agnes-sim-agent\\mcp\\server.py"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# 产物
+report/
+evidence/
+*.log
